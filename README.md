@@ -2,7 +2,7 @@
 
 A small C++17 movie and series recommender for the age-old question: **what should I watch tonight?**
 
-ScreenPick asks about mood, genre, day, format, language, and available time. It uses a transparent scoring system to suggest up to three titles from a hand-curated list.
+DoorDarshan asks about mood, genre, day, format, language, and available time. It uses a transparent scoring system to suggest up to three titles from a hand-curated list.
 
 ## Run on Windows
 
