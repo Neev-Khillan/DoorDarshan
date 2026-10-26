@@ -1,4 +1,4 @@
-# ScreenPick
+# DoorDarshan
 
 A small C++17 movie and series recommender for the age-old question: **what should I watch tonight?**
 
