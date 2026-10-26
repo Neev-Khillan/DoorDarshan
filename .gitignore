@@ -1,0 +1,5 @@
+*.exe
+screenpick
+a.out
+.vscode/
+.idea/
